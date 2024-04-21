@@ -1,6 +1,6 @@
 # 💫 Acerca de mí:
 ¡Hola!👋 Soy Gastón, un desarrollador web full stack que trabaja principalmente con tecnologías como React, Redux, HTML y CSS para el frontend, y Node.js, Express, Sequelize y PostgreSQL para el backend.<br><br>Realicé la Tecnicatura Universitaria en Software Libre en la Universidad Nacional del Litoral hace algunos años, donde tuve mi primer acercamiento al desarrollo de aplicaciones web, principalmente con herramientas de código abierto. Recientemente, terminé la carrera de Desarrollador Web Full Stack en Henry.💻<br><br>
-🔭 Actualmente estoy trabajando en proyectos de Aplicaciones Web con React y Node.<br><br>
+🔭 Actualmente estoy trabajando en proyectos de Aplicaciones Web con React y Express.<br><br>
 🌱 También estoy aprendiendo React Native y TypeScript.🚀✨<br><br>
 
 
