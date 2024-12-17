@@ -12,7 +12,7 @@ Estoy en la búsqueda de nuevas oportunidades donde pueda aportar mi experiencia
 🔭 Actualmente estoy trabajando en proyectos de Aplicaciones Web con React y Express.<br><br>
 
 
-🌱 También estoy aprendiendo React Native y TypeScript.<br><br>
+🌱 También estoy aprendiendo Java y Spring.<br><br>
 
 
 ## 🌐 Redes sociales:
