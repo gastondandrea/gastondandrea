@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-¡Hola!👋 Soy Gastón, un apasionado desarrollador web full stack especializado en tecnología. Mi enfoque se centra en la creación de aplicaciones sólidas e intuitivas, que satisfagan las necesidades de los usuarios de manera efectiva, implementando las mejores prácticas de desarrollo y metodologías ágiles. 💻 <br><br>
+¡Hola!👋 Soy Gastón, un apasionado desarrollador web full stack especializado en tecnología. Mi enfoque se centra en la creación de aplicaciones sólidas e intuitivas, que satisfagan las necesidades de los usuarios de manera efectiva, implementando las mejores prácticas de desarrollo. 💻 <br><br>
 
 Estoy en la búsqueda de nuevas oportunidades donde pueda aportar mi experiencia y pasión por la tecnología, para contribuir al éxito tanto del equipo como de los proyectos. Me entusiasma formar parte de un equipo dinámico y colaborativo, donde pueda seguir creciendo y aportando valor con mis habilidades como desarrollador. 🚀✨ <br><br>
 
@@ -9,10 +9,10 @@ Estoy en la búsqueda de nuevas oportunidades donde pueda aportar mi experiencia
 </p<br><br><br>
 
 
-🔭 Actualmente estoy trabajando en proyectos de Aplicaciones Web con React.<br><br>
+🔭 Actualmente estoy trabajando en proyectos de Aplicaciones Web de manera freelace.<br><br>
 
 
-🌱 También estoy aprendiendo Java y Spring.<br><br>
+🌱 Estoy aprendiendo Nest.js y TypeORM.<br><br>
 
 
 ## 🌐 Redes sociales:
