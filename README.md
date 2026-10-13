@@ -1,7 +1,7 @@
 # 💫 Acerca de mí:
-¡Hola!👋 Soy Gastón, un apasionado desarrollador web full stack especializado en tecnología. Mi enfoque se centra en la creación de aplicaciones sólidas e intuitivas, que satisfagan las necesidades de los usuarios de manera efectiva, implementando las mejores prácticas de desarrollo. 💻 <br><br>
+¡Hola!👋 Soy Gastón, desarrollador de software. 💻 <br><br>
 
-Estoy en la búsqueda de nuevas oportunidades donde pueda aportar mi experiencia y pasión por la tecnología, para contribuir al éxito tanto del equipo como de los proyectos. Me entusiasma formar parte de un equipo dinámico y colaborativo, donde pueda seguir creciendo y aportando valor con mis habilidades como desarrollador. 🚀✨ <br><br>
+Actualmente, estoy en búsqueda de nuevas oportunidades, donde pueda contribuir con mi trabajo y experiencia. Me entusiasma poder formar parte de un gran equipo de trabajo, donde pueda seguir creciendo como desarrollador. 🚀✨ <br><br>
 
 
 <p align="center">
@@ -13,7 +13,6 @@ Estoy en la búsqueda de nuevas oportunidades donde pueda aportar mi experiencia
 ### 💻 Estado Actual
 
 - 🔭 **Freelance:** Actualmente estoy trabajando en proyectos de **Aplicaciones Web** de manera independiente.
-- 🌱 **Aprendiendo:** Estoy profundizando mis conocimientos en **Shadcn UI** para optimizar la experiencia de usuario y la accesibilidad.
 
 ---
 
