@@ -1,7 +1,7 @@
 # 💫 Acerca de mí:
 ¡Hola!👋 Soy Gastón, desarrollador de software. 💻 <br><br>
 
-Actualmente, estoy en búsqueda de nuevas oportunidades, donde pueda contribuir con mi trabajo y experiencia. Me entusiasma poder formar parte de un gran equipo de trabajo, donde pueda seguir creciendo como desarrollador. 🚀✨ <br><br>
+Siempre estoy en búsqueda de nuevas oportunidades donde aportar mi trabajo y experiencia. Me entusiasma formar parte de equipos donde pueda seguir aprendiendo y creciendo como desarrollador. 🚀✨ <br><br>
 
 
 <p align="center">
